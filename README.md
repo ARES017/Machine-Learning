@@ -1,2 +1,4 @@
 # Machine-Learning
-Machine Learning Course on Coursera By University of Washington
+Machine Learning Specialization course on Coursera By University of Washington.
+
+https://www.coursera.org/specializations/machine-learning
